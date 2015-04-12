@@ -2,7 +2,8 @@
 
 ## Deploy new application
 
-**heroku create** - creates new remote repository and a reference to it called 'heroku'
+**heroku create** - creates new remote repository and a reference to it called `heroku`
+
 **git push heroku `master`** - merges commits from local branch `master` to the same named branch on heroku
 
 ## Link existing heroku application
